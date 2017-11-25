@@ -12,6 +12,7 @@ public class Main {
 		int letters = 0;
 		int lines = 0;
 
+		
 		File file = new File("Path to txt file");
 		@SuppressWarnings("resource")
 		Scanner in = new Scanner(file);
